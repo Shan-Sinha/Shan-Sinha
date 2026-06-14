@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shan</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m a **Software Engineer**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Shan-Sinha](https://github.com/Shan-Sinha)
 
@@ -17,16 +17,16 @@
 const shan = {
     pronouns: "He" | "Him",
     code: ["Javascript", "C++", "Python"],
-    askMeAbout: ["web dev", "tech", "videoediting"],
+    askMeAbout: ["scalable backend systems", "microservices", "tech"],
     technologies: {
         frontEnd: {
             js: ["Reactjs"],
             css: ["bootstrap","Tailwind"]
         },
         backEnd: {
-            js: ["node", "express"]
+            js: ["node", "express", "FastAPI"]
         },
-        databases: ["mongo"],
+        databases: ["mongo", "MySQL"],
     },
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
