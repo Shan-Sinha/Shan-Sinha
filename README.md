@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shan</h1>
-<h3 align="center">A passionate developer from India</h3>
-
-- 🌱 I’m a **Software Engineer**
+<h3 align="center">I'm a Software Engineer</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Shan-Sinha](https://github.com/Shan-Sinha)
 
